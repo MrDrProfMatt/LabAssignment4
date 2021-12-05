@@ -1,0 +1,11 @@
+.btn-bordered{
+  border:1px solid #ccc;
+}
+.bordered{
+  border:1px solid #ccc;
+  border-radius: 7px;
+  padding: 1em;
+}
+.small-text{
+  font-size: .95em;
+}
